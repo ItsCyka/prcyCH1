@@ -62,3 +62,37 @@ https://cdn.jaybirdtv.com/wfmz/channel/9/master.m3u8
 #EXTINF:-1 tvg-id="",WFMZ Traffic
 #EXTIMG: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/media/a/c8/ac869514-59da-11ed-af43-e3974baa3ccb/636106d50eac9.image.png?resize=161%2C175
 https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1549636659.jpg" group-title="SMOOTH Radio - radio.pervii.com", Jazz Cafe - 128 kbit/s
+http://radio.wanderingsheep.tv:8000/jazzcafe
+#EXTINF:-1 , GOLD INSTRUMENTAL
+http://199.233.234.34:25373/stream
+#EXTINF:-1 , 102.7 Star FM Manila
+https://stream.zeno.fm/69b1kf7q0y5tv
+#EXTINF:-1 , 91.5 Win Radio Manila
+https://stream.zeno.fm/nz4ydgnu6hhvv
+#EXTINF:-1 , Magic 89.9
+https://stream.zeno.fm/sh37pvfd938uv
+#EXTINF:-1 , WIN RADIO 107.9 FM CDO
+https://stream.zeno.fm/jcd2soldm9buv
+#EXTINF:-1, Magnum Radio 99.9 FM CDO
+http://212.84.160.187:21059/;stream.mp3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
