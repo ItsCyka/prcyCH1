@@ -1,45 +1,64 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SonyMovies.us",Sony Movie Channel 
+#EXTIMG: https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV00s.uk",VH1 
+#EXTINF:-1 tvg-id="MTV00s.uk",MTV00s
+#EXTIMG: https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png?20210624174116
 http://195.24.89.82/VH1_SD/index.m3u8
 #EXTINF:-1 tvg-id="MTVGlobal.uk",MTV 
+#EXTIMG: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/220px-MTV_2021_%28brand_version%29.svg.png
 http://195.24.89.82/MTV_SD/index.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us",Yahoo! Finance
+#EXTIMG: https://s.yimg.com/uc/fin/img/logo192x192.png
 https://yahoo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us",AccuWeather Now 
+#EXTIMG: https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CONtvAnime.us",CONtv Anime 
+#EXTIMG: https://image.roku.com/developer_channels/prod/cf64ec045ea3d1fc0340a9de61829ce8f76447d4d8f325f7b433ad9b2dcdc393.png
 https://contvanime-roku-ingest.cinedigm.com/master.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us",Bloomberg TV+ UHD 
+#EXTIMG: https://tbivision.com/files/2019/10/Bloomberg.png
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="WeatherSpy.us",WeatherSpy
-https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSNewsNewYork.us",CBSN New York NY 
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us",CBSN New York NY
+#EXTIMG: https://cdn.mos.cms.futurecdn.net/yjhTy8yeWBsw7vTy7bjj8a-970-80.jpg 
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 #EXTINF:-1 tvg-id="CNN.us",CNN
+#EXTIMG: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="PBSAmerica.uk",PBS America 
+#EXTIMG: https://yt3.googleusercontent.com/ytc/AOPolaQs3ChhfG97E3Q2ghr0a3PDhqzE_b19qE9FZhOSsg=s176-c-k-c0x00ffffff-no-rj
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us",Eric Andre Show 
+#EXTIMG: https://static.cdn.adultswim.com/pushdown/as_logo.png
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us",Rick and Morty 
+#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us",Rick and Morty
+#EXTIMG: https://static.cdn.adultswim.com/pushdown/as_logo.png 
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-id="",Toonami 
+#EXTIMG: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Toonami_2022_Logo.png/800px-Toonami_2022_Logo.png?20220330045921
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium 
+#EXTIMG: https://nhkworldpremium.com/img/provider/logo.png
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr",Arirang 
+#EXTINF:-1 tvg-id="ArirangTV.kr",Arirang
+#EXTIMG: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/749px-Arirang-TV-Logo.svg.png
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSKids.kr",KBS Kids 
+#EXTINF:-1 tvg-id="KBSKids.kr",KBS Kids
+#EXTIMG: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/800px-KBS_kids.svg.png
 http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-#EXTINF:-1 tvg-id="KBSWorld.kr",KBS World 
+#EXTINF:-1 tvg-id="KBSWorld.kr",KBS World
+#EXTIMG: https://static.cdnlogo.com/logos/k/68/kbs-world.svg 
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TBSeFM.kr",TBS eFM 
+#EXTIMG: https://tbs.seoul.kr/common/images/default/tbs_logo.jpg
 https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
 #EXTINF:-1 tvg-id="KBDIDT1.us",PBS Denver CO 
+#EXTIMG: https://image.pbs.org/bento3-prod/krma-bento-live-pbs/Logos/659c935cc5_RMPBS_RGB_word_blk_vert_800.png
 https://kbdidt.lls.pbs.org/out/v1/5a01f14ff4e4492eb7cda1a79b0ced60/index.m3u8
 #EXTINF:-1 tvg-id="",WFMZ PPL Tower Camera
+#EXTIMG: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/media/a/c8/ac869514-59da-11ed-af43-e3974baa3ccb/636106d50eac9.image.png?resize=161%2C175
 https://cdn.jaybirdtv.com/wfmz/channel/9/master.m3u8
 #EXTINF:-1 tvg-id="",WFMZ Traffic
+#EXTIMG: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/media/a/c8/ac869514-59da-11ed-af43-e3974baa3ccb/636106d50eac9.image.png?resize=161%2C175
 https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
