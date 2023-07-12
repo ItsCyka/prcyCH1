@@ -7,5 +7,5 @@ Alternative links:
 Index 1: [Click Me for Index1](https://iptv-1.clarenceestoya.repl.co/index.m3u) 
 Total Channels: 334
 |
-Index 2: (Click Me for Index2](https://iptv-1.clarenceestoya.repl.co/index2.m3u)
+Index 2: [Click Me for Index2](https://iptv-1.clarenceestoya.repl.co/index2.m3u)
 Total Channels: 22
