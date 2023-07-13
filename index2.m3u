@@ -2,14 +2,16 @@
 #EXTINF:-1 tvg-id="SonyMovies.us",Sony Movie Channel 
 #EXTIMG: https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV00s.uk",MTV00s
+#EXTINF:-1 tvg-id="MTV00s.uk",MTV 00s
 #EXTIMG: https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png?20210624174116
 http://195.24.89.82/VH1_SD/index.m3u8
 #EXTINF:-1 tvg-id="MTVGlobal.uk",MTV 
-#EXTIMG: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/220px-MTV_2021_%28brand_version%29.svg.png
+tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/220px-MTV_2021_%28brand_version%29.svg.png"
 http://195.24.89.82/MTV_SD/index.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us",Yahoo! Finance
 #EXTIMG: https://s.yimg.com/uc/fin/img/logo192x192.png
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now 
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://yahoo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us",AccuWeather Now 
 #EXTIMG: https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU
@@ -62,20 +64,153 @@ https://cdn.jaybirdtv.com/wfmz/channel/9/master.m3u8
 #EXTINF:-1 tvg-id="",WFMZ Traffic
 #EXTIMG: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/media/a/c8/ac869514-59da-11ed-af43-e3974baa3ccb/636106d50eac9.image.png?resize=161%2C175
 https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1549636659.jpg" group-title="SMOOTH Radio - radio.pervii.com", Jazz Cafe - 128 kbit/s
-http://radio.wanderingsheep.tv:8000/jazzcafe
-#EXTINF:-1 , GOLD INSTRUMENTAL
-http://199.233.234.34:25373/stream
-#EXTINF:-1 , 102.7 Star FM Manila
+#EXTINF:-1 tvg-id="LegoChannel.us",LEGO Channel (720p)
+https://legochannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo"http://www.bomboradyo.com/starfm/wp-content/uploads/2019/03/Star-Logo.png" group-title="Radio Stations",Star FM Manila
 https://stream.zeno.fm/69b1kf7q0y5tv
-#EXTINF:-1 , 91.5 Win Radio Manila
+#EXTINF:-1 tvg-logo="https://winradioph.net/wp-content/uploads/win-radio-web-logo.png" group-title="Radio Stations",91.5 Win Radio Manila
 https://stream.zeno.fm/nz4ydgnu6hhvv
-#EXTINF:-1 , Magic 89.9
+#EXTINF:-1 tvg-logo="https://www.magic899.com/docs/assets/img/logo.png" group-title="Radio Stations",Magic 89.9
 https://stream.zeno.fm/sh37pvfd938uv
-#EXTINF:-1 , WIN RADIO 107.9 FM CDO
+#EXTINF:-1 tvg-logo="https://winradioph.net/wp-content/uploads/CDO.jpg" group-title="Radio Stations",WIN RADIO 107.9 FM CDO
 https://stream.zeno.fm/jcd2soldm9buv
-#EXTINF:-1, Magnum Radio 99.9 FM CDO
+#EXTINF:-1 tvg-logo="http://www.magnum999.com/wp-content/uploads/2022/07/Icon-250px-150x150.png" group-title="Radio Stations",Magnum Radio 99.9 FM CDO
 http://212.84.160.187:21059/;stream.mp3
+#EXTINF:-1 tvg-logo="https://www.wish1075.com/wp-content/uploads/2018/08/wish-logo-round.png" group-title="Radio Stations",Wish FM 107.5 - DWNU
+https://untv.mmdlive.lldns.net/untv/f55dcf9ae0f542d6a7614893d0c2dd83/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://www.979homeradio.com/wp-content/uploads/2018/09/LOGO-1024PNG.png" group-title="Radio Stations",97.9 Home Radio Manila
+http://149.56.147.197:9071/stream
+#EXTINF:-1 tvg-logo="https://www.yesthebest.com.ph/wp-content/uploads/2021/11/ytb-logo2021.png" group-title="Radio Stations",Yes! The Best Manila 
+https://s2.radio.co/sa85100da7/listen
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/93.5_Home_Radio_CDO.png/600px-93.5_Home_Radio_CDO.png" group-title="Radio Stations",93.5 DWIZ News FM CDO
+http://149.56.147.197:9071/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kdbnfxdrmjkx.png" group-title="Radio Stations",Wild FM Iligan 
+http://85.93.91.10:8132/stream
+#EXTINF:-1 tvg-logo="https://www.dwiz882am.com/wp-content/uploads/2017/07/DWIZ-logo-e1493796729564.png" group-title="Radio Stations",DWIZ 882 
+http://149.56.147.197:9079/stream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Rj_100.jpg/200px-Rj_100.jpg" group-title="Radio Stations",RJ100.3
+http://111.125.87.226:8000/streamfm
+#EXTINF:-1 tvg-logo="https://www.easyrock.com.ph/wp-content/uploads/2016/02/er-cdo.png" group-title="Radio Stations",96.9 Easy Rock CDO
+http://easyrockcagayan.radioca.st:9720/stream/
+#EXTINF:-1 tvg-logo="https://strongradio.net/wp-content/uploads/2022/07/cropped-294906166_5403202723052361_8352812677228874509_n.png" group-title="Radio Stations",DXKI Strong Radio 90.3 CDO
+http://67.212.238.178:7007/stream
+#EXTINF:-1 tvg-logo="https://bomboradyo.com/wp-images/cdo-logo-header-mobile-ret.png" group-title="Radio Stations",Bombo Radyo CDO
+http://node-17.zeno.fm/y5guetvxd0quv?rj-ttl=5&amprj-tok=AAABdYPrVhQA9XKxFfPMLjf9ww
+#EXTINF:-1 tvg-logo="https://www.dzrh.com.ph/logo/logo_main.svg" group-title="Radio Stations",DZRH
+https://streamingv2.shoutcast.com/dzrhmanila?type=.mp3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
