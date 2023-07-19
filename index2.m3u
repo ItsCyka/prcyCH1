@@ -77,3 +77,5 @@ http://67.212.238.178:7007/stream
 http://node-17.zeno.fm/y5guetvxd0quv?rj-ttl=5&amprj-tok=AAABdYPrVhQA9XKxFfPMLjf9ww
 #EXTINF:-1 tvg-logo="https://www.dzrh.com.ph/logo/logo_main.svg.png" group-title="Radio Stations",DZRH
 https://streamingv2.shoutcast.com/dzrhmanila?type=.mp3
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Mq5lbzAB-G8/Vu-L81DZpII/AAAAAAAACEU/mCfoqiWB3xAx5Y6KpyvS3Yyhi5qSuprIA/s200/wild-zee-cdo-94-3-amfmph.png" group-title="Radio Stations", 94.3 Wild Zee Cagayan de Oro
+https://fr1.amfmph.com:8129/stream
