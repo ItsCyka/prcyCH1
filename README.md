@@ -1,25 +1,22 @@
-# customIPTV1
----------------------------------------------------------------------------------------------
+## truxTelevision (Formerly customIPTV1)
+___
 Alternative links:
+* [Index 1](https://iptv-1.clarenceestoya.repl.co/index.m3u)
 
-Index 1(replit): [Click Me for Index1](https://iptv-1.clarenceestoya.repl.co/index.m3u) 
+* Total Channels: 95
 
-Total Channels: 334
+* [Index 2](https://iptv-1.clarenceestoya.repl.co/index2.m3u)
 
-Index 2(replit): [Click Me for Index2](https://iptv-1.clarenceestoya.repl.co/index2.m3u)
+* Total Channels: 21
 
-Total Channels: 39
+* Index 3 is under making.
 
-Radio Stations: 16(Philippines and Cagayan de Oro Local Channels)
-
-Index 3(replit): coming soon
-
-Total Channels: not available
-
-Radio stations: not available
-
-----------------------------------------------------------------------------------------------
-
+* Total Channels: TBA
+___
+### Raw Logs
 ```
-Updated regularly both replit and github
+> Updated playlist both Github and Replit
+> Added NASA UHD
+> Radio Channels are now Permanently Deleted in Index2, and it will back for the Index3 upload.
+> Deleted all BBC Stations (including Red Button) in Index1 because of stream issues.
 ```
