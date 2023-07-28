@@ -8,15 +8,11 @@ Alternative links:
 * [Index 2](https://iptv-1.clarenceestoya.repl.co/index2.m3u)
 
 * Total Channels: 21
-
-* Index 3 is under making.
-
-* Total Channels: TBA
 ___
 ### Raw Logs
 ```
 > Updated playlist both Github and Replit
 > Added NASA UHD
-> Radio Channels are now Permanently Deleted in Index2, and it will back for the Index3 upload.
+> Radio Channels are now Permanently Deleted in Index2. 
 > Deleted all BBC Stations (including Red Button) in Index1 because of stream issues.
 ```
