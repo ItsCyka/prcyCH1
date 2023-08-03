@@ -12,7 +12,7 @@ ___
 ### Raw Logs
 ```
 > Updated playlist both Github and Replit
-> Added NASA UHD
+> Added MTV
 > Radio Channels are now Permanently Deleted in Index2. 
-> Deleted all BBC Stations (including Red Button) in Index1 because of stream issues.
+> BBC 1 and BBC World News are back on Index2
 ```
