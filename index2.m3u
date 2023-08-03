@@ -11,7 +11,7 @@ http://195.24.89.82/MTV_SD/index.m3u8
 http://149.62.177.99:8004/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5375NBp44I1X76wCuPqAhFzMLubjvOIVmsAK9gMU2MlwMKdh2gz6Pm5ktmp_kXuilbWOP_KVUwPv8NIezeAj7HLbUPCVgIESuYt3cWXNN8s0LuyS4j2DnQ=h60",FOX News Now 
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s.yimg.com/uc/fin/img/logo192x192.png", Yahoo! Finance
+#EXTINF:-1 tvg-logo="https://s.yimg.com/uc/fin/img/logo192x192.png",Yahoo! Finance
 https://yahoo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -21,7 +21,7 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/cf64ec045ea3d1fc0340a9de61829ce8f76447d4d8f325f7b433ad9b2dcdc393.png",CONtv Anime 
 https://contvanime-roku-ingest.cinedigm.com/master.m3u8
-#EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png", Bloomberg TV+
+#EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png",Bloomberg TV+
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/yjhTy8yeWBsw7vTy7bjj8a-970-80.jpg",CBSN New York NY
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
@@ -29,10 +29,6 @@ http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo=" https://yt3.googleusercontent.com/ytc/AOPolaQs3ChhfG97E3Q2ghr0a3PDhqzE_b19qE9FZhOSsg=s176-c-k-c0x00ffffff-no-rj",PBS America 
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.cdn.adultswim.com/pushdown/as_logo.png",Eric Andre Show 
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 tvg-logo="https://static.cdn.adultswim.com/pushdown/as_logo.png",Rick and Morty
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Toonami_2022_Logo.png/800px-Toonami_2022_Logo.png",Toonami 
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
 #EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png",NHK World Premium 
@@ -45,7 +41,7 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=9
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://tbs.seoul.kr/common/images/default/tbs_logo.jpg",TBS eFM 
 https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/94cdfb1dfaa8b0f4409f959605139c6ac17eac78c32aa3cb6dec9930ab4e1ea1.png",LEGO Channel (720p)
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/94cdfb1dfaa8b0f4409f959605139c6ac17eac78c32aa3cb6dec9930ab4e1ea1.png",LEGO Channel
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png",HITS 
 http://210.210.155.37/dr9445/h/h37/index.m3u8
@@ -61,5 +57,5 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 http://iptv-tn.com:8080/sniperiptv/HX9Z2JAzLR/35786
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/b6/Bein-sports-2-hero.png",beIN Sports 2 HD
 http://iptv-tn.com:8080/sniperiptv/HX9Z2JAzLR/35631
-#EXTINF:-1, tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/190px-BBC_One_logo_2021.svg.png",BBC 1
+#EXTINF:-1, tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/190px-BBC_One_logo_2021.svg.png",BBC 1 London
 http://185.189.225.200:8085/BBC1/index.m3u8
