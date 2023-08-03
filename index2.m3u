@@ -3,7 +3,9 @@
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png?20210624174116",MTV 00s
 http://195.24.89.82/VH1_SD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg",MTV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/175px-MTV_Hits_2021.svg.png",MTV Hits
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg",MTV 
 http://195.24.89.82/MTV_SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/rNdgsCZCeCBEC5EMBQpGLE-1200-80.png",NASA UHD
 http://149.62.177.99:8004/play/a00t/index.m3u8
@@ -11,6 +13,10 @@ http://149.62.177.99:8004/play/a00t/index.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s.yimg.com/uc/fin/img/logo192x192.png", Yahoo! Finance
 https://yahoo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://www.voanews.com/Content/responsive/VOA/img/image-placeholder.svg",VOA 
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU",AccuWeather Now 
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/cf64ec045ea3d1fc0340a9de61829ce8f76447d4d8f325f7b433ad9b2dcdc393.png",CONtv Anime 
@@ -41,61 +47,19 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/94cdfb1dfaa8b0f4409f959605139c6ac17eac78c32aa3cb6dec9930ab4e1ea1.png",LEGO Channel (720p)
 https://legochannel-vizio.amagi.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo"http://www.bomboradyo.com/starfm/wp-content/uploads/2019/03/Star-Logo.png" group-title="Radio Stations",Star FM Manila
-https://stream.zeno.fm/69b1kf7q0y5tv
-#EXTINF:-1 tvg-logo="https://winradioph.net/wp-content/uploads/win-radio-web-logo.png" group-title="Radio Stations",91.5 Win Radio Manila
-https://stream.zeno.fm/nz4ydgnu6hhvv
-#EXTINF:-1 tvg-logo="https://www.magic899.com/docs/assets/img/logo.png" group-title="Radio Stations",Magic 89.9
-https://stream.zeno.fm/sh37pvfd938uv
-#EXTINF:-1 tvg-logo="https://www.loveradio.com.ph/wp-content/uploads/2022/11/love-logo.png" group-title="Radio Stations", 90.7 Love Radio Manila
-https://s3.radio.co/sd43d6cc6d/listen
-#EXTINF:-1 tvg-logo="https://www.wish1075.com/wp-content/uploads/2018/08/wish-logo-round.png" group-title="Radio Stations",Wish FM 107.5 - DWNU
-https://untv.mmdlive.lldns.net/untv/f55dcf9ae0f542d6a7614893d0c2dd83/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.yesthebest.com.ph/wp-content/uploads/2021/11/ytb-logo2021.png" group-title="Radio Stations",Yes! The Best Manila 
-https://s2.radio.co/sa85100da7/listen
-#EXTINF:-1 tvg-logo="http://www.979homeradio.com/wp-content/uploads/2018/09/LOGO-1024PNG.png" group-title="Radio Stations",97.9 Home Radio Manila
-http://149.56.147.197:9071/stream
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Rj_100.jpg/200px-Rj_100.jpg" group-title="Radio Stations",RJ100.3
-http://111.125.87.226:8000/streamfm
-#EXTINF:-1 tvg-logo="https://www.dwiz882am.com/wp-content/uploads/2017/07/DWIZ-logo-e1493796729564.png" group-title="Radio Stations",DWIZ 882 
-http://149.56.147.197:9079/stream
-#EXTINF:-1 tvg-logo="https://www.dzrh.com.ph/logo/logo_main.svg.png" group-title="Radio Stations",DZRH
-https://streamingv2.shoutcast.com/dzrhmanila?type=.mp3
-#EXTINF:-1 tvg-logo="https://winradioph.net/wp-content/uploads/CDO.jpg" group-title="Northern Mindanao Radio",Win Radio 107.9 FM CDO
-https://stream.zeno.fm/jcd2soldm9buv
-#EXTINF:-1 tvg-logo="http://www.magnum999.com/wp-content/uploads/2022/07/Icon-250px-150x150.png" group-title="Northern Mindanao Radio",Magnum Radio 99.9 FM CDO
-http://212.84.160.187:21059/;stream.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kdbnfxdrmjkx.png" group-title="Northern Mindanao Radio",Wild FM Iligan 
-http://85.93.91.10:8132/stream
-#EXTINF:-1 tvg-logo="https://www.easyrock.com.ph/wp-content/uploads/2016/02/er-cdo.png" group-title="Northern Mindanao Radio",96.9 Easy Rock CDO
-http://easyrockcagayan.radioca.st:9720/stream/
-#EXTINF:-1 tvg-logo="https://strongradio.net/wp-content/uploads/2022/07/cropped-294906166_5403202723052361_8352812677228874509_n.png" group-title="Northern Mindanao Radio",DXKI Strong Radio 90.3 CDO
-http://67.212.238.178:7007/stream
-#EXTINF:-1 tvg-logo="https://bomboradyo.com/wp-images/cdo-logo-header-mobile-ret.png" group-title="Northern Mindanao Radio",Bombo Radyo CDO
-http://node-17.zeno.fm/y5guetvxd0quv?rj-ttl=5&amprj-tok=AAABdYPrVhQA9XKxFfPMLjf9ww
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Mq5lbzAB-G8/Vu-L81DZpII/AAAAAAAACEU/mCfoqiWB3xAx5Y6KpyvS3Yyhi5qSuprIA/s200/wild-zee-cdo-94-3-amfmph.png" group-title="Northern Mindanao Radio", 94.3 Wild Zee Cagayan de Oro
-https://fr1.amfmph.com:8129/stream
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png",HITS 
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png",ROCK Entertainment 
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srnmFn6.png",CCTV-4
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png",K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BBC_World_News_2022_%28Boxed%29.svg",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dgt5Q3K.png?1",beIN Sports 6
+http://iptv-tn.com:8080/sniperiptv/HX9Z2JAzLR/35786
+EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/b6/Bein-sports-2-hero.png",beIN Sports 2 HD
+http://iptv-tn.com:8080/sniperiptv/HX9Z2JAzLR/35631
+#EXTINF:-1, tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/190px-BBC_One_logo_2021.svg.png",BBC 1
+http://185.189.225.200:8085/BBC1/index.m3u8
