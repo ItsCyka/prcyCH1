@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png",Sony Movie Channel 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png?20210624174116",MTV 00s
+http://195.24.89.82/VH1_SD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/175px-MTV_Hits_2021.svg.png",MTV Hits
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg",MTV 
+http://195.24.89.82/MTV_SD/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-90s-us.svg",MTV 90s
+https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_beats_in.png",MTV Beats
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-live-us.svg",MTV Live
+http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nasa_tv_us_uhd.png",NASA UHD
+http://149.62.177.99:8004/play/a00t/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5375NBp44I1X76wCuPqAhFzMLubjvOIVmsAK9gMU2MlwMKdh2gz6Pm5ktmp_kXuilbWOP_KVUwPv8NIezeAj7HLbUPCVgIESuYt3cWXNN8s0LuyS4j2DnQ=h60",FOX News Now 
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s.yimg.com/uc/fin/img/logo192x192.png",Yahoo! Finance
+https://yahoo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://www.voanews.com/Content/responsive/VOA/img/image-placeholder.svg",VOA 
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU",AccuWeather Now 
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png",Bloomberg TV+
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/yjhTy8yeWBsw7vTy7bjj8a-970-80.jpg",CBSN New York NY
+http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo=" https://yt3.googleusercontent.com/ytc/AOPolaQs3ChhfG97E3Q2ghr0a3PDhqzE_b19qE9FZhOSsg=s176-c-k-c0x00ffffff-no-rj",PBS America 
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Toonami_2022_Logo.png/800px-Toonami_2022_Logo.png",Toonami 
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
+#EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png",NHK World Premium 
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YaDPMvD.png",Arirang
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/800px-KBS_kids.svg.png",KBS Kids
+http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+#EXTINF:-1 tvg-logo="https://static.cdnlogo.com/logos/k/68/kbs-world.svg",KBS World
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://tbs.seoul.kr/common/images/default/tbs_logo.jpg",TBS eFM 
+https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png",HITS 
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png",ROCK Entertainment 
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srnmFn6.png",CCTV-4
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png",K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-us.svg",Fox
+http://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BBC_World_News_2022_%28Boxed%29.svg",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dgt5Q3K.png?1",beIN Sports 6
+http://iptv-tn.com:8080/sniperiptv/HX9Z2JAzLR/35786
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/b6/Bein-sports-2-hero.png",beIN Sports 2 HD
+http://iptv-tn.com:8080/sniperiptv/HX9Z2JAzLR/35631
+#EXTINF:-1, tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/190px-BBC_One_logo_2021.svg.png",BBC 1 London
+http://185.189.225.200:8085/BBC1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-1-fr.svg",Eurosport 1
+https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png",History
+https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg",Nat Geo HD
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg",Nat Geo Wild HD
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg",TLC
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
