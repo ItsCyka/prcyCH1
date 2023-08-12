@@ -19,6 +19,8 @@ http://149.62.177.99:8004/play/a00t/index.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s.yimg.com/uc/fin/img/logo192x192.png",Yahoo! Finance
 https://yahoo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Korean Central Television(KCTV)
+https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://www.voanews.com/Content/responsive/VOA/img/image-placeholder.svg",VOA 
@@ -53,8 +55,6 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-us.svg",Fox
-http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BBC_World_News_2022_%28Boxed%29.svg",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dgt5Q3K.png?1",beIN Sports 6
@@ -65,11 +65,10 @@ http://iptv-tn.com:8080/sniperiptv/HX9Z2JAzLR/35631
 http://185.189.225.200:8085/BBC1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-1-fr.svg",Eurosport 1
 https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png",History
-https://sc.id-tv.kz/HistoryHD_36_37.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg",Nat Geo HD
-http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg",Nat Geo Wild HD
-http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg",TLC
-https://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULEiMU8.png",BBC Radio 1
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_one.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECfhuxA.png",BBC Radio 1Xtra
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_1xtra.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jv7zYcO.png",BBC Asian Network
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_asian_network.mpd
+
