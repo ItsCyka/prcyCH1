@@ -1,11 +1,11 @@
 ## truxTelevision (Formerly customIPTV1)
 ___
 Alternative links:
-* [Index 1](https://iptv-1.clarenceestoya.repl.co/index.m3u)
+* [Index 1](https://bit.ly/truxTV3)
 
 * Total Channels: 95
 
-* [Index 2](https://iptv-1.clarenceestoya.repl.co/index2.m3u)
+* [Index 2](https://bit.ly/truxTV2)
 
 * Total Channels: 21
 ___
