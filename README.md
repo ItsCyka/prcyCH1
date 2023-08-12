@@ -7,7 +7,7 @@ IPTV Links:
 
 * [Index 2](https://bit.ly/truxTV2)
 
-* Total Channels: 21
+* Total Channels: 37
 ___
 ### Raw Logs
 ```
