@@ -1,6 +1,6 @@
 ## truxTelevision (Formerly customIPTV1)
 ___
-Alternative links:
+IPTV Links:
 * [Index 1](https://bit.ly/truxTV3)
 
 * Total Channels: 95
@@ -11,8 +11,8 @@ Alternative links:
 ___
 ### Raw Logs
 ```
-> Updated playlist both Github and Replit
-> Added MTV
-> Radio Channels are now Permanently Deleted in Index2. 
-> BBC 1 and BBC World News are back on Index2
+> Replit service are now stopped. 
+> Added MTV and VH1 
+> Added BBC Radio 1, BBC Radio 1Xtra, and BBC Asian Network.
+> TV Logo's are not currently available
 ```
