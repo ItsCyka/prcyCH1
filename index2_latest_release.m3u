@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png",Sony Movie Channel 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:1 tvg-logo="",Lotus Macau
-http://402173193.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=uBMAAEXOz7zCQnsX&secondToken=secondToken%3AkrUlKPNTIvrqGqc2DQsFmBqcp28&streamid=lotustv%3Alotustv%2Fmacaulotustv&v3=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png?20210624174116",MTV 00s
 http://195.24.89.82/VH1_SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/175px-MTV_Hits_2021.svg.png",MTV Hits
