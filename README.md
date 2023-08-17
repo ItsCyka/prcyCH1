@@ -12,5 +12,5 @@ ___
 ### Raw Logs
 ```
 > Replit service are now stopped. 
-> Raw logs are moved anywhere.
+> Raw logs are moved in Releases. dont worry i dont upload tar.gz and .zip files there. all i know is making html not linux-based executable file
 ```
