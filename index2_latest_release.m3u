@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",test video 1
+https://vod-dash-uk-live.akamaized.net/usp/auth/vod/piff_abr_full_hd/a5dddd-m001gmrv/vf_m001gmrv_6971f17f-5dcc-4271-90ff-f2cb489a2ba9.ism/pc_hd_abr_v2_dash_master.mpd?__gda__=1696138009_88cb1cab7f4eb524d72febd5f05d0f7b
+
 #EXTINF:-1 tvg-name="Sony Movie Channel" tvg-logo="https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png",Sony Movie Channel 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
