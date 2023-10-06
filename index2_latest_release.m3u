@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-name="Sony Movie Channel" tvg-logo="https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png",Sony Movie Channel 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="",Paramount Movie Channel
+https://i.mjh.nz/SamsungTVPlus/USAJ26000054W.m3u8
+
 #EXTINF:-1 tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/175px-MTV_Hits_2021.svg.png",MTV Hits
 https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 
@@ -74,6 +77,15 @@ http://143.244.60.30/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/logos/nba/broadcast_logos/L/nbatv.svg",NBA TV
 http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&stream=749756
+
+#EXTINF:-1 tvg-logo="",FIFA+
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+
+#EXTINF:-1 tvg-logo="",BBC Earth
+https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BBC_World_News_2022_%28Boxed%29.svg",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/190px-BBC_One_logo_2021.svg.png",BBC 1 London
 http://185.189.225.200:8085/BBC1/index.m3u8
