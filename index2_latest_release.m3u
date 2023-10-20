@@ -18,6 +18,9 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-live-us.svg",MTV Live
 http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",ITV 1
+http://92.114.85.81:8000/play/a00y/index.m3u8
+
 #EXTINF:-1 tvg-name="Fox News Now" tvg-logo="https://lh3.googleusercontent.com/5375NBp44I1X76wCuPqAhFzMLubjvOIVmsAK9gMU2MlwMKdh2gz6Pm5ktmp_kXuilbWOP_KVUwPv8NIezeAj7HLbUPCVgIESuYt3cWXNN8s0LuyS4j2DnQ=h60",FOX News Now 
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
@@ -38,6 +41,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-name="PBS America" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/PBS_America_logo.png/200px-PBS_America_logo.png",PBS America 
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/768px-Food_Network_logo.svg.png",Food Network UK 
+http://92.114.85.79:8000/play/a0ci
 
 #EXTINF:-1 tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Toonami_2022_Logo.png/800px-Toonami_2022_Logo.png",Toonami 
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
@@ -60,6 +66,9 @@ https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
 #EXTINF:-1  tvg-name="HITS" tvg-logo="https://i.imgur.com/IM8Gy1l.png",HITS 
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png",HGTV Ⓢ
+http://92.114.85.81:8000/play/a037/index.m3u8
+
 #EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png",ROCK Entertainment 
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 
@@ -81,6 +90,9 @@ https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 #EXTINF:-1 tvg-logo="",BBC Earth
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png",BBC News
+http://92.114.85.81:8000/play/a00a/index.m3u8
+
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BBC_World_News_2022_%28Boxed%29.svg",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
@@ -90,7 +102,7 @@ http://185.189.225.200:8085/BBC1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
 https://helpfulpost.net/bbctwo/index.m3u8
 
-#EXTINF:-1 tvg-name="BBC Four Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png" tvg-id="BBCFour.uk" group-title="UK",BBC Four Ⓢ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png",BBC Four
 https://helpfulpost.net/bbcfour/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULEiMU8.png",BBC Radio 1
