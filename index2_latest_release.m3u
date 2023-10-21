@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-name="Sony Movie Channel" tvg-logo="https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png",Sony Movie Channel 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",Paramount Movie Channel
-https://i.mjh.nz/SamsungTVPlus/USAJ26000054W.m3u8
-
 #EXTINF:-1 tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/175px-MTV_Hits_2021.svg.png",MTV Hits
 https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 
@@ -17,9 +14,6 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-live-us.svg",MTV Live
 http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",ITV 1
-http://92.114.85.81:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-name="Fox News Now" tvg-logo="https://lh3.googleusercontent.com/5375NBp44I1X76wCuPqAhFzMLubjvOIVmsAK9gMU2MlwMKdh2gz6Pm5ktmp_kXuilbWOP_KVUwPv8NIezeAj7HLbUPCVgIESuYt3cWXNN8s0LuyS4j2DnQ=h60",FOX News Now 
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -83,6 +77,9 @@ http://143.244.60.30/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/logos/nba/broadcast_logos/L/nbatv.svg",NBA TV
 http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&stream=749756
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",ITV 1
+http://92.114.85.81:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png",ITV 2
 http://92.114.85.77:8000/play/a041
