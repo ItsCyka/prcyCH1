@@ -84,14 +84,8 @@ http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/logos/nba/broadcast_logos/L/nbatv.svg",NBA TV
 http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&stream=749756
 
-#EXTINF:-1 tvg-logo="",FIFA+
-https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png",ITV 2
 http://92.114.85.77:8000/play/a041
-
-#EXTINF:-1 tvg-logo="",BBC Earth
-https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png",BBC News
 http://92.114.85.81:8000/play/a00a/index.m3u8
