@@ -96,7 +96,7 @@ http://92.114.85.81:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BBC_World_News_2022_%28Boxed%29.svg",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/190px-BBC_One_logo_2021.svg.png",BBC 1 London
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/190px-BBC_One_logo_2021.svg.png",BBC One 
 http://185.189.225.200:8085/BBC1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
