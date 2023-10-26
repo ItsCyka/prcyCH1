@@ -39,6 +39,9 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/768px-Food_Network_logo.svg.png",Food Network
 http://92.114.85.79:8000/play/a0ci
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
+http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
+
 #EXTINF:-1 tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Toonami_2022_Logo.png/800px-Toonami_2022_Logo.png",Toonami 
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
 
