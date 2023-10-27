@@ -1,4 +1,4 @@
-## prcyChannel
+## truxTelevision
 ___
 IPTV Links:
 * [Index 1](https://bit.ly/truxTV3)
