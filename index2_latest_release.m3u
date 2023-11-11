@@ -54,6 +54,9 @@ http://asia.vthanhtivi.pw/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
 http://asia.vthanhtivi.pw/NHK_E/index.m3u8
 
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/250px-Animax.svg.png",Animax
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+
 #EXTINF:-1 tvg-name="Arirang Korea" tvg-logo="https://i.imgur.com/YaDPMvD.png",Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
