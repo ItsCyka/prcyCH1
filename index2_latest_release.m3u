@@ -87,11 +87,23 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 
 http://143.244.60.30/ESPN/index.m3u8
 
+#EXTINF:-1 tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/552px-E4_logo_2018.svg.png",E4 
+http://92.114.85.81:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-name="E4 Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/640px-E4_Extra_logo_2022.svg.png",E4 Extra
+http://92.114.85.81:8000/play/a03r/index.m3u8
+
 #EXTINF:-1  tvg-name="itv 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",ITV 1
 http://92.114.85.81:8000/play/a00y/index.m3u8
 
 #EXTINF:-1  tvg-name="itv 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png",ITV 2
 http://92.114.85.77:8000/play/a041
+
+#EXTINF:-1 tvg-name="itv 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png",ITV 3
+http://92.114.85.77:8000/play/a04z
+
+#EXTINF:-1 tvg-name="itv 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/640px-ITV4_logo_%282022%29.svg.png",ITV 4
+http://92.114.85.77:8000/play/a05z
 
 #EXTINF:-1  tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png",BBC News
 http://92.114.85.81:8000/play/a00a/index.m3u8
