@@ -56,14 +56,17 @@ http://asia.vthanhtivi.pw/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
 http://asia.vthanhtivi.pw/NHK_E/index.m3u8
 
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/250px-Animax.svg.png",Animax
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
-
 #EXTINF:-1 tvg-name="Arirang Korea" tvg-logo="https://i.imgur.com/YaDPMvD.png",Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png",TV Tokyo
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+
 #EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
-http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+
+#EXTINF:-1 tvg-name="Tokyo MX2" tvg-logo="https://i.imgur.com/ghRFrKj.png",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 
 #EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/220px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -73,6 +76,9 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TBS eFM" tvg-logo=" https://tbs.seoul.kr/common/images/default/tbs_logo.jpg",TBS eFM 
 https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
+
+#EXTINF:-1 tvg-name="TBS" tvg-logo="https://i.imgur.com/SzWJscr.png",TBS
+https://tbs2.mov3.co/hls/tbs.m3u8
 
 #EXTINF:-1 tvg-name="HITS" tvg-logo="https://i.imgur.com/IM8Gy1l.png",HITS 
 http://210.210.155.37/dr9445/h/h37/index.m3u8
