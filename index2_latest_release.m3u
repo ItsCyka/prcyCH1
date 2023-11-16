@@ -56,7 +56,7 @@ http://asia.vthanhtivi.pw/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
 http://asia.vthanhtivi.pw/NHK_E/index.m3u8
 
-#EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://i.imgur.com/CjoqJXh.png" tvg-id="FujiTV.jp" group-title="Japan",Fuji TV
+#EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://i.imgur.com/CjoqJXh.png",Fuji TV
 https://fujitv3.mov3.co/hls/fujitv.m3u8
 
 #EXTINF:-1 tvg-name="Arirang Korea" tvg-logo="https://i.imgur.com/YaDPMvD.png",Arirang
@@ -65,7 +65,7 @@ https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png",TV Tokyo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 
-#EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
+#EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 
 #EXTINF:-1 tvg-name="Tokyo MX2" tvg-logo="https://i.imgur.com/ghRFrKj.png",Tokyo MX2
@@ -116,7 +116,7 @@ http://92.114.85.77:8000/play/a041
 #EXTINF:-1 tvg-name="itv 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png",itv 3
 http://92.114.85.77:8000/play/a04z
 
-#EXTINF:-1 tvg-name="ITVBe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/640px-ITVBe_logo_%282022%29.svg.png" tvg-id="ITVBe.uk" group-title="UK",itvBE
+#EXTINF:-1 tvg-name="ITVBe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/640px-ITVBe_logo_%282022%29.svg.png",itvBE
 http://92.114.85.77:8000/play/a09h
 
 #EXTINF:-1 tvg-name="itv 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/640px-ITV4_logo_%282022%29.svg.png",itv 4
