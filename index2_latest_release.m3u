@@ -2,7 +2,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-name="BYUtv" tvg-logo="https://imgur.com/jq1Jq69",BYU TV
+#EXTINF:-1 tvg-name="BYUtv" tvg-logo="https://i.imgur.com/jq1Jq69.png",BYU TV
 https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
 
 #EXTINF:-1 tvg-name="Sony Movie Channel" tvg-logo="https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png",Sony Movie Channel 
@@ -103,12 +103,6 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 
 http://143.244.60.30/ESPN/index.m3u8
-
-#EXTINF:-1 tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/552px-E4_logo_2018.svg.png",E4 
-http://92.114.85.81:8000/play/a02c/index.m3u8
-
-#EXTINF:-1 tvg-name="E4 Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/640px-E4_Extra_logo_2022.svg.png",E4 Extra
-http://92.114.85.81:8000/play/a03r/index.m3u8
 
 #EXTINF:-1  tvg-name="itv 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",itv 1
 http://92.114.85.81:8000/play/a00y/index.m3u8
