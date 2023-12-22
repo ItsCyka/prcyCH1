@@ -33,8 +33,14 @@ http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1672
 #EXTINF:-1,MTV Rocks
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1674
 
-#EXTINF:-1,MTV Classic
+#EXTINF:-1 tvg-name="MTV Classic" tvg-logo="",MTV Classic
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/51650
+
+#EXTINF:-1, Comedy Central
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46809
+
+#EXTINF:-1 tvg-name="FXX HD" tvg-logo="", FXX HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46789
 
 #EXTINF:-1 tvg-name="Fox News Now" tvg-logo="https://lh3.googleusercontent.com/5375NBp44I1X76wCuPqAhFzMLubjvOIVmsAK9gMU2MlwMKdh2gz6Pm5ktmp_kXuilbWOP_KVUwPv8NIezeAj7HLbUPCVgIESuYt3cWXNN8s0LuyS4j2DnQ=h60",FOX News Now 
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
