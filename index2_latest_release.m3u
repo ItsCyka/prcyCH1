@@ -2,6 +2,10 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 tvg-name="Cartoon Network PH" tvg-logo="",Cartoon Network Philippines
+http://46.249.58.11:5000/live/premium-aostv-free/download-fdrm-aostv.asia/16352.ts
+
 #EXTINF:-1 tvg-name="BYUtv" tvg-logo="https://i.imgur.com/jq1Jq69.png",BYU TV
 https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
 
@@ -19,6 +23,15 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-live-us.svg",MTV Live
 http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
+
+#EXTINF:-1,MTV Dance
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1672
+
+#EXTINF:-1,MTV Rocks
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1674
+
+#EXTINF:-1,MTV Classic
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/51650
 
 #EXTINF:-1 tvg-name="Fox News Now" tvg-logo="https://lh3.googleusercontent.com/5375NBp44I1X76wCuPqAhFzMLubjvOIVmsAK9gMU2MlwMKdh2gz6Pm5ktmp_kXuilbWOP_KVUwPv8NIezeAj7HLbUPCVgIESuYt3cWXNN8s0LuyS4j2DnQ=h60",FOX News Now 
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -43,9 +56,6 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Food Network UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/768px-Food_Network_logo.svg.png",Food Network
 http://92.114.85.79:8000/play/a0ci
-
-#EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
-http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
 
 #EXTINF:-1 tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Toonami_2022_Logo.png/800px-Toonami_2022_Logo.png",Toonami 
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
@@ -83,11 +93,17 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TBS eFM" tvg-logo=" https://tbs.seoul.kr/common/images/default/tbs_logo.jpg",TBS eFM 
 https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
 
-#EXTINF:-1 tvg-name="TBS" tvg-logo="https://i.imgur.com/SzWJscr.png",TBS
-https://tbs2.mov3.co/hls/tbs.m3u8
-
 #EXTINF:-1 tvg-name="HITS" tvg-logo="https://i.imgur.com/IM8Gy1l.png",HITS 
 http://210.210.155.37/dr9445/h/h37/index.m3u8
+
+#EXTINF:-1,Sky Cinema Premiere
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/244
+
+#EXTINF:-1,Sky Cinema Select
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48945
+
+#EXTINF:-1,SKY Movies Disney
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1240
 
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png",HGTV 
 http://92.114.85.81:8000/play/a037/index.m3u8
@@ -103,6 +119,10 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 
 http://143.244.60.30/ESPN/index.m3u8
+
+#EXTINS:-1 tvg-name="E4" tvg-logo="",E4
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3610
+
 
 #EXTINF:-1  tvg-name="itv 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",itv 1
 http://92.114.85.81:8000/play/a00y/index.m3u8
@@ -131,8 +151,14 @@ http://185.189.225.200:8085/BBC1/index.m3u8
 #EXTINF:-1  tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
 https://helpfulpost.net/bbctwo/index.m3u8
 
+#EXTINF:-1  tvg-name="BBC Three" tvg-logo="",BBC Three
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/262
+
 #EXTINF:-1  tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png",BBC Four
 https://helpfulpost.net/bbcfour/index.m3u8
+
+#EXTINF:-1  tvg-name="BBC CBEEBIES" tvg-logo="",BBC CBEEBIES
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4060
 
 #EXTINF:-1  tvg-name="BBC Radio 1" tvg-logo="https://i.imgur.com/ULEiMU8.png",BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one.mpd
