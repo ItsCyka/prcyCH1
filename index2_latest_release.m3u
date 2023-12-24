@@ -3,8 +3,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="Cartoon Network PH" tvg-logo="",Cartoon Network Philippines
-http://46.249.58.11:5000/live/premium-aostv-free/download-fdrm-aostv.asia/16352.ts
+#EXTINF:-1 tvg-name="Cartoon Network PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 
 #EXTINF:-1 tvg-name="BYUtv" tvg-logo="https://i.imgur.com/jq1Jq69.png",BYU TV
 https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
@@ -12,8 +11,11 @@ https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
 #EXTINF:-1 tvg-name="Sony Movie Channel" tvg-logo="https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png",Sony Movie Channel 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="HBO" tvg-logo="",HBO
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png",HBO
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15
+
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png",Cinemax
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=16
 
 #EXTINF:-1 tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/175px-MTV_Hits_2021.svg.png",MTV Hits
 https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
@@ -27,19 +29,19 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-live-us.svg",MTV Live
 http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
 
-#EXTINF:-1,MTV Dance
+#EXTINF:-1 tvg-name="MTV Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/175px-Club_MTV_2021_logo.svg.png",,MTV Club
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1672
 
-#EXTINF:-1,MTV Rocks
+#EXTINF:-1 tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/200px-MTV_Rocks_2017_logo.svg.png",,MTV Rocks
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1674
 
-#EXTINF:-1 tvg-name="MTV Classic" tvg-logo="",MTV Classic
+#EXTINF:-1 tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/200px-MTV_Classic_US.svg.png",MTV Classic
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/51650
 
-#EXTINF:-1, Comedy Central
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/220px-Comedy_Central_2018.svg.png",Comedy Central
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46809
 
-#EXTINF:-1 tvg-name="FXX HD" tvg-logo="", FXX HD
+#EXTINF:-1 tvg-name="FXX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/170px-FXX_Logo.svg.png", FXX HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46789
 
 #EXTINF:-1 tvg-name="Fox News Now" tvg-logo="https://lh3.googleusercontent.com/5375NBp44I1X76wCuPqAhFzMLubjvOIVmsAK9gMU2MlwMKdh2gz6Pm5ktmp_kXuilbWOP_KVUwPv8NIezeAj7HLbUPCVgIESuYt3cWXNN8s0LuyS4j2DnQ=h60",FOX News Now 
@@ -50,6 +52,9 @@ https://yahoo-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Korean Central Television" tvg-logo="https://i.imgur.com/zmaIwzV.png",Korean Central Television
 https://tv.nknews.org/tvdash/stream.mpd
+
+#EXTINF:-1 tvg-name="Kapamilya Channel" tvg=logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/220px-Kapamilya_Channel_Logo_2020.svg.png",Kapamilya Channel
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=11
 
 #EXTINF:-1 tvg-name="VOA" tvg-logo="https://www.voanews.com/Content/responsive/VOA/img/image-placeholder.svg",VOA 
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
@@ -102,11 +107,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-name="KBS World" tvg-logo="https://static.cdnlogo.com/logos/k/68/kbs-world.svg",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PBO" tvg-logo="http://logo.protv.cc/picons/logos/PBO-TV.jpeg",PBO
-http://rayantv.org:80/play/live.php?mac=00:1A:79:1D:11:64&stream=731812&extension=ts
-
-#EXTINF:-1 tvg-name="Cinemo" tvg-logo="http://logo.protv.cc/picons/logos/CINEMO.jpg",CINEMO
-http://rayantv.org:80/play/live.php?mac=00:1A:79:1D:11:64&stream=731855&extension=ts
+#EXTINF:-1 tvg-name="PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Pinoy_Box_Office_logo.png/200px-Pinoy_Box_Office_logo.png",PBO
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15
 
 #EXTINF:-1 tvg-name="TBS eFM" tvg-logo=" https://tbs.seoul.kr/common/images/default/tbs_logo.jpg",TBS eFM 
 https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
@@ -114,13 +116,13 @@ https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
 #EXTINF:-1 tvg-name="HITS" tvg-logo="https://i.imgur.com/IM8Gy1l.png",HITS 
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 
-#EXTINF:-1,Sky Cinema Premiere
+#EXTINF:-1 tvg-name="Sky Cinema Premiere tvg-logo="https://i.imgur.com/HW5p2Fj.png",Sky Cinema Premiere
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/244
 
-#EXTINF:-1,Sky Cinema Select
+#EXTINF:-1 tvg-name="Sky Cinema Select" tvg-logo="https://i.imgur.com/EO5dgKP.png",Sky Cinema Select
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48945
 
-#EXTINF:-1,Sky Movies Disney
+#EXTINF:-1 tvg-name="Sky Movies Disney" tvg-logo="https://i.imgur.com/5ECwHxj.png",Sky Movies Disney
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1240
 
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png",HGTV 
@@ -138,8 +140,8 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 
 http://143.244.60.30/ESPN/index.m3u8
 
-#EXTINS:-1 tvg-name="E4" tvg-logo="",E4
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3610
+#EXTINS:-1 tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png",E4
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49160
 
 #EXTINF:-1  tvg-name="itv 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",itv 1
 http://92.114.85.81:8000/play/a00y/index.m3u8
