@@ -1,16 +1,4 @@
 ## truxTelevision
 ___
-IPTV Links:
-* [Index 1](https://bit.ly/truxTV3)
-
-* Total Channels: -
-
-* [Index 2](https://bit.ly/truxTV2)
-
-* Total Channels: -
+***For Private Use Only
 ___
-### Raw Logs
-```
-> Replit service are now stopped. 
-> 
-```
