@@ -177,6 +177,9 @@ http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/262
 #EXTINF:-1  tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png",BBC Four
 https://helpfulpost.net/bbcfour/index.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="",BBC Earth HD
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=33
+
 #EXTINF:-1  tvg-name="BBC Radio 1" tvg-logo="https://i.imgur.com/ULEiMU8.png",BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one.mpd
  
