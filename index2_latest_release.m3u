@@ -34,7 +34,7 @@ https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
 http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-live-us.svg",MTV Live
-http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=67
 
 #EXTINF:-1 tvg-name="MTV Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/175px-Club_MTV_2021_logo.svg.png",,MTV Club
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1672
