@@ -21,6 +21,9 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png",Cinemax
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=16
 
+#EXTINF:-1 tvg-name="Lotus Macau" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Lotus_TV_Macau_logo.jpg/220px-Lotus_TV_Macau_logo.jpg",Lotus Macau
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=91
+
 #EXTINF:-1 tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/175px-MTV_Hits_2021.svg.png",MTV Hits
 https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 
