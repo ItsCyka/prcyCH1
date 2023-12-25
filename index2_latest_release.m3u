@@ -78,18 +78,6 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=82
 #EXTINF:-1 tvg-name="Food Network UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/768px-Food_Network_logo.svg.png",Food Network
 http://92.114.85.79:8000/play/a0ci
 
-#EXTINF:-1 tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Toonami_2022_Logo.png/800px-Toonami_2022_Logo.png",Toonami 
-https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
-
-#EXTINF:-1 tvg-name="NHK World Premium" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png",NHK World Premium 
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-
-#EXTINF:-1 tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
-http://asia.vthanhtivi.pw/NHK_G/index.m3u8
-
-#EXTINF:-1 tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-http://asia.vthanhtivi.pw/NHK_E/index.m3u8
-
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/800px-TNT_%28TV_Channel%29.svg.png",TNT
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/7349.ts
 
@@ -177,13 +165,13 @@ http://185.189.225.200:8085/BBC1/index.m3u8
 #EXTINF:-1  tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
 https://helpfulpost.net/bbctwo/index.m3u8
 
-#EXTINF:-1  tvg-name="BBC Three" tvg-logo="",BBC Three
+#EXTINF:-1  tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/215px-BBC_Three_2022.svg.png",BBC Three
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/262
 
 #EXTINF:-1  tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png",BBC Four
 https://helpfulpost.net/bbcfour/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="",BBC Earth HD
+#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/200px-BBC_Earth_2023.svg.png",BBC Earth HD
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=33
 
 #EXTINF:-1  tvg-name="BBC Radio 1" tvg-logo="https://i.imgur.com/ULEiMU8.png",BBC Radio 1
