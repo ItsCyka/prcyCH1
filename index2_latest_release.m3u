@@ -69,8 +69,8 @@ https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBA TV
-http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1010.ts
+#EXTINF:-1 tvg-name="NBA TV Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/220px-NBA_TV_Philippines.png",NBA TV Philippines
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=82
 
 #EXTINF:-1 tvg-name="Food Network UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/768px-Food_Network_logo.svg.png",Food Network
 http://92.114.85.79:8000/play/a0ci
