@@ -3,7 +3,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="Cartoon Network PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network PH
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=29
 
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
@@ -15,10 +15,10 @@ https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
 #EXTINF:-1 tvg-name="Sony Movie Channel" tvg-logo="https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png",Sony Movie Channel 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png",HBO
+#EXTINF:-1 tvg-name="HBO Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png",HBO Asia
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15
 
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png",Cinemax
+#EXTINF:-1 tvg-name="Cinemax Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png",Cinemax Asia
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=16
 
 #EXTINF:-1 tvg-name="Lotus Macau" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Lotus_TV_Macau_logo.jpg/220px-Lotus_TV_Macau_logo.jpg",Lotus Macau
@@ -103,7 +103,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Pinoy_Box_Office_logo.png/200px-Pinoy_Box_Office_logo.png",PBO
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=12
 
 #EXTINF:-1 tvg-name="TBS eFM" tvg-logo=" https://tbs.seoul.kr/common/images/default/tbs_logo.jpg",TBS eFM 
 https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
