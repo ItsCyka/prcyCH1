@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz, "
 
+#EXTM3U uel-tvg="https://www.bevy.be/bevyfiles/philippines.xml" refresh="3600"
+
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Cartoon Network PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network PH
