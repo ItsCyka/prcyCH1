@@ -2,6 +2,8 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-name="CATV-6" tvg-logo="",CATV-6
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=34
 
 #EXTINF:-1 tvg-name="Cartoon Network PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network PH
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=29
