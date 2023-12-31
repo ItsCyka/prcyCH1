@@ -106,11 +106,8 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Pinoy_Box_Office_logo.png/200px-Pinoy_Box_Office_logo.png",PBO
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=12
 
-#EXTINF:-1 tvg-name="TBS eFM" tvg-logo=" https://tbs.seoul.kr/common/images/default/tbs_logo.jpg",TBS eFM 
-https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
-
-#EXTINF:-1 tvg-name="HITS" tvg-logo="https://i.imgur.com/IM8Gy1l.png",HITS 
-http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:-1 tvg-name="HITS Movies" tvg-logo="https://i.imgur.com/IM8Gy1l.png",HITS 
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=22
 
 #EXTINF:-1 tvg-name="Sky Cinema Premiere tvg-logo="https://i.imgur.com/HW5p2Fj.png",Sky Cinema Premiere
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/244
@@ -134,7 +131,7 @@ http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 
-http://143.244.60.30/ESPN/index.m3u8
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=32
 
 #EXTINS:-1 tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png",E4
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49160
