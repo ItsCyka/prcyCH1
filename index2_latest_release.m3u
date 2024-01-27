@@ -2,11 +2,23 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Cartoon Network Philippines" tvg-logo="",Cartoon Network Philippines
+http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/29.m3u8
+
 #EXTINF:-1 tvg-name="BYUtv" tvg-logo="https://i.imgur.com/jq1Jq69.png",BYU TV
 https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
 
 #EXTINF:-1 tvg-name="Sony Movie Channel" tvg-logo="https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png",Sony Movie Channel 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="",HBO
+http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/15.m3u8
+
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="",Cinemax
+http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/16.m3u8
+
+#EXTINF:-1 tvg-logo="History HD" tvg-logo="",History HD
+http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/53.m3u8 
 
 #EXTINF:-1 tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/175px-MTV_Hits_2021.svg.png",MTV Hits
 https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
@@ -29,8 +41,8 @@ http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46809
 #EXTINF:-1 tvg-name="FXX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/170px-FXX_Logo.svg.png", FXX HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46789
 
-#EXTINF:-1 tvg-name="Fox News Now" tvg-logo="https://lh3.googleusercontent.com/5375NBp44I1X76wCuPqAhFzMLubjvOIVmsAK9gMU2MlwMKdh2gz6Pm5ktmp_kXuilbWOP_KVUwPv8NIezeAj7HLbUPCVgIESuYt3cWXNN8s0LuyS4j2DnQ=h60",FOX News Now 
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://lh3.googleusercontent.com/5375NBp44I1X76wCuPqAhFzMLubjvOIVmsAK9gMU2MlwMKdh2gz6Pm5ktmp_kXuilbWOP_KVUwPv8NIezeAj7HLbUPCVgIESuYt3cWXNN8s0LuyS4j2DnQ=h60",FOX News 
+http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/39.m3u8 
 
 #EXTINF:-1 tvg-name="Yahoo! Finance" tvg-logo="https://s.yimg.com/uc/fin/img/logo192x192.png",Yahoo! Finance
 https://yahoo-plex.amagi.tv/playlist.m3u8
@@ -44,7 +56,10 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png",Bloomberg TV+
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png",CNN
+#EXTINF-1 tvg-name="CNN HD1" tvg-logo="",CNN HD2
+http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/38.m3u8 
+
+#EXTINF:-1 tvg-name="CNN HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png",CNN HD1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-name="Food Network UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/768px-Food_Network_logo.svg.png",Food Network
@@ -58,6 +73,9 @@ http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1006.ts
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBA TV
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1010.ts
+
+#EXTINF:-1 tvg-name="Kapamilya Channel" tvg-logo="", Kapamilya Channel
+http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/11.m3u8
 
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png",TV Tokyo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
@@ -131,8 +149,8 @@ http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/262
 #EXTINF:-1  tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png",BBC Four
 https://helpfulpost.net/bbcfour/index.m3u8
 
-#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/200px-BBC_Earth_2023.svg.png",BBC Earth HD
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=33
+#EXTINF:-1 tvg-name="Premiere Sports" tvg-logo="",Premiere Sports
+http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/36.m3u8
 
 #EXTINF:-1  tvg-name="BBC Radio 1" tvg-logo="https://i.imgur.com/ULEiMU8.png",BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one.mpd
