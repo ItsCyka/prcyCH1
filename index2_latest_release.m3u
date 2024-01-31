@@ -144,7 +144,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 http://185.189.225.200:8085/BBC1/index.m3u8
 
 #EXTINF:-1  tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
-https://helpfulpost.net/bbctwo/index.m3u8
+http://185.189.225.200:8085/BBC2/index.m3u8
 
 #EXTINF:-1  tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/215px-BBC_Three_2022.svg.png",BBC Three
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/262
