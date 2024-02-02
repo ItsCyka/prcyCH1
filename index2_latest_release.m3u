@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#ECTINF:-1 tvg-name="Family Guy FHD | CineMania" tvg-logo="",Family Guy FHD | CineMania
+http://tv.trexiptv.com:80/Vitor2023/2023Vitor/1430342
+
 #EXTINF:-1 tvg-name="Cartoon Network Philippines" tvg-logo="",Cartoon Network Philippines
 http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/29.m3u8
 
