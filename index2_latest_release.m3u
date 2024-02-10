@@ -2,29 +2,14 @@
 
 #EXTM3U
 
-#ECTINF:-1 tvg-name="Family Guy FHD | CineMania" tvg-logo="",Family Guy FHD | CineMania
+#EXTINF:-1 tvg-name="Family Guy FHD | CineMania" tvg-logo="",Family Guy FHD | CineMania
 http://tv.trexiptv.com:80/Vitor2023/2023Vitor/1430342
-
-#EXTINF:-1 tvg-name="Cartoon Network Philippines" tvg-logo="",Cartoon Network Philippines
-http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/29.m3u8
-
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="",Nickelodeon
-http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/28.m3u8 
 
 #EXTINF:-1 tvg-name="BYUtv" tvg-logo="https://i.imgur.com/jq1Jq69.png",BYU TV
 https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
 
 #EXTINF:-1 tvg-name="Sony Movie Channel" tvg-logo="https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png",Sony Movie Channel 
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="HBO" tvg-logo="",HBO
-http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/15.m3u8
-
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="",Cinemax
-http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/16.m3u8
-
-#EXTINF:-1 tvg-logo="History HD" tvg-logo="",History HD
-http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/53.m3u8 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8 
 
 #EXTINF:-1 tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/175px-MTV_Hits_2021.svg.png",MTV Hits
 https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
@@ -62,9 +47,6 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png",Bloomberg TV+
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNN HD1" tvg-logo="",CNN HD2
-http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/38.m3u8 
-
 #EXTINF:-1 tvg-name="CNN HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png",CNN HD1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
@@ -80,17 +62,8 @@ http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1006.ts
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBA TV
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1010.ts
 
-#EXTINF:-1 tvg-name="Kapamilya Channel" tvg-logo="", Kapamilya Channel
-http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/11.m3u8
-
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png",TV Tokyo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
-
-#EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX1
-https://movie.mcas.jp/mcas/mx1_2/master.m3u8
-
-#EXTINF:-1 tvg-name="Tokyo MX2" tvg-logo="https://i.imgur.com/ghRFrKj.png",Tokyo MX2
-https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 
 #EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/220px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -123,10 +96,10 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49160
 
 #EXTINF:-1  tvg-name="itv 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",itv 1
-http://92.114.85.81:8000/play/a00y/index.m3u8
+https://helpfulpost.net/itv1/index.m3u8
 
 #EXTINF:-1  tvg-name="itv 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png",itv 2
-http://92.114.85.77:8000/play/a041
+https://helpfulpost.net/itv2/index.m3u8
 
 #EXTINF:-1 tvg-name="itv 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png",itv 3
 http://92.114.85.77:8000/play/a04z
@@ -150,13 +123,10 @@ http://185.189.225.200:8085/BBC1/index.m3u8
 http://185.189.225.200:8085/BBC2/index.m3u8
 
 #EXTINF:-1  tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/215px-BBC_Three_2022.svg.png",BBC Three
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/262
+https://helpfulpost.net/bbcthree/index.m3u8
 
 #EXTINF:-1  tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png",BBC Four
 https://helpfulpost.net/bbcfour/index.m3u8
-
-#EXTINF:-1 tvg-name="Premiere Sports" tvg-logo="",Premiere Sports
-http://fp.visualsec.net:8443/live/1yZjUrqzah6dl3Ude6eLVw/1706490929/36.m3u8
 
 #EXTINF:-1  tvg-name="BBC Radio 1" tvg-logo="https://i.imgur.com/ULEiMU8.png",BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one.mpd
