@@ -47,7 +47,7 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png",Bloomberg TV+
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNN HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png",CNN HD1
+#EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png",CNN HD1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-name="Food Network UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/768px-Food_Network_logo.svg.png",Food Network
@@ -64,6 +64,15 @@ http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1010.ts
 
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png",TV Tokyo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+
+#EXTINF:-1 tvg-name="NHK E" tvg-logo="",NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+
+#EXTINF-1 tvg-name="NHK G" tvg-logo="",NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+
+#EXTINF:-1 tvg-name="NHK BSP4K" tvg-logo="",NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 
 #EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/220px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
